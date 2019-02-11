@@ -32,6 +32,21 @@ public class Magic {
         else if(value<50){
             System.out.println("You may rely on it.");
         }
+        else if(value<60){
+            System.out.println("Odds aren't good.");
+        }
+        else if(value<70){
+            System.out.println("Signs point to yes.");
+        }
+        else if(value<80){
+            System.out.println("Cannot predict now.");
+        }
+        else if(value<90){
+            System.out.println("Don't count on it.");
+        }
+        else if(value<101){
+            System.out.println("My reply is no.");
+        }
 
 
 
